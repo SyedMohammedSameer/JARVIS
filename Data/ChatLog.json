@@ -30,5 +30,29 @@
     {
         "role": "assistant",
         "content": "Sir Mohammed!\n\nAccording to the search results, Sachin Tendulkar is an Indian former international cricketer who captained the Indian national team. He is widely regarded as one of the greatest batsmen in the history of cricket.\n\nAs for the current USD to INR exchange rate, I couldn't find the exact rate in the provided search results. However, I can suggest checking a reliable currency exchange website or service for the most up-to-date and accurate exchange rate. If you'd like, I can assist you in finding the current exchange rate, Sir Mohammed."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Good day, Sir Mohammed! It's a pleasure to assist you. How may I be of service to you today?"
+    },
+    {
+        "role": "user",
+        "content": "What's current standings of champions league in football?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sir Mohammed! As your personal assistant, I'd be happy to provide you with the current standings of the Champions League in football. However, I need to access real-time data to provide you with the most up-to-date information.\n\nAs of my knowledge cutoff, which is Wednesday, January 22, 2025, 14:50:16, I don't have the exact current standings. But I can suggest checking a reliable sports website or service, such as UEFA's official website or other reputable sources, for the latest Champions League standings.\n\nIf you'd like, I can assist you in finding the current standings, Sir Mohammed. Please let me know!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Good day, Sir Mohammed! How may I assist you today?"
     }
 ]
