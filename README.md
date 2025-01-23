@@ -19,3 +19,17 @@ Welcome to **JARVIS**, a personal assistant inspired by the iconic AI from Ironm
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/JARVIS.git
+   
+2. Navigate to the project directory:
+
+    ```bash
+    cd JARVIS
+
+3. Install the necessary dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+
+4. Configure API keys:
+
+Add your API keys for Google Search and other services to the .env file (refer to .env.example for the format).
